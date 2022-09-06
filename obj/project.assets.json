@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Борисович\\Desktop\\Обучение на GB\\Seminar8_Itog\\Task60\\Task60.csproj",
+      "projectUniqueName": "C:\\Users\\Борисович\\Desktop\\Обучение на GB\\Task60\\Task60.csproj",
       "projectName": "Task60",
-      "projectPath": "C:\\Users\\Борисович\\Desktop\\Обучение на GB\\Seminar8_Itog\\Task60\\Task60.csproj",
+      "projectPath": "C:\\Users\\Борисович\\Desktop\\Обучение на GB\\Task60\\Task60.csproj",
       "packagesPath": "C:\\Users\\Борисович\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Борисович\\Desktop\\Обучение на GB\\Seminar8_Itog\\Task60\\obj\\",
+      "outputPath": "C:\\Users\\Борисович\\Desktop\\Обучение на GB\\Task60\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Борисович\\AppData\\Roaming\\NuGet\\NuGet.Config"
